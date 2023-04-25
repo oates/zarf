@@ -35,7 +35,7 @@
 		"material-symbols": "0.5.5",
 		"prismjs": "1.29.0",
 		"sanitize.css": "13.0.0",
-		"yaml": "2.2.1"
+		"yaml": "2.2.2"
 	},
 	"devDependencies": {
 		"@playwright/test": "1.32.2",
