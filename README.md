@@ -1,4 +1,4 @@
-# Zarf - DevSecOps for Air Gap
+# Zarf - DevSecOps for Air Gap 
 
 [![Latest Release](https://img.shields.io/github/v/release/defenseunicorns/zarf)](https://github.com/defenseunicorns/zarf/releases)
 [![Go version](https://img.shields.io/github/go-mod/go-version/defenseunicorns/zarf?filename=go.mod)](https://go.dev/)
